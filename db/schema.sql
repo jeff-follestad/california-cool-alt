@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS cool_db;
+DROP DATABASE IF EXISTS california_cool;
 
-CREATE DATABASE cool_db;
+CREATE DATABASE california_cool;
